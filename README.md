@@ -1,1 +1,1 @@
-# deconvbet-tensorflow
+# DeConvBET
