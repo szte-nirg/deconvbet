@@ -13,7 +13,7 @@ We evaluated the performance of four state-of-the-art approaches on four publicl
 
 ## Method
 
-
+<img width="810" alt="image" src="samples/model.png">
 
 ## License
 
