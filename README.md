@@ -15,6 +15,14 @@ We evaluated the performance of four state-of-the-art approaches on four publicl
 
 <img width="810" alt="image" src="samples/model.png">
 
+## Citation
+
+If this work is helpful for your research, please consider citing the following BibTeX entry.
+
+```
+@article{}
+```
+
 ## License
 
 This repository is released under the Apache 2.0 license as found in the [LICENSE](LICENSE.md) file.
